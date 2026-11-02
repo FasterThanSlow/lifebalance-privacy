@@ -1,0 +1,75 @@
+Privacy Policy
+Effective Date: January 18, 2026
+Thank you for using the LifeBalance app, developed by Green Key Universe. This Privacy Policy explains how information is collected, used, and shared when you use our application.
+________________
+
+
+1. Information Collection and Use
+LifeBalance does not collect personally identifiable information such as your name, email address, or precise location.
+However, the app uses third-party analytics services that may automatically collect limited, non-personal information for the purpose of analyzing app usage and improving app quality. This information may include:
+* Device information (such as device model, operating system version)
+
+* App usage data (screens visited, interactions, session duration)
+
+* Approximate location (country or city level), derived from IP address
+
+* Anonymous identifiers assigned by analytics SDKs
+
+________________
+
+
+2. Third-Party Services
+LifeBalance uses the following third-party services:
+   * Firebase Analytics (Google LLC)
+
+   * Amplitude Analytics (Amplitude Inc.)
+
+   * Google Play In-App Review API
+
+These services may collect and process data in accordance with their own privacy policies:
+      * Firebase Privacy Policy: https://policies.google.com/privacy
+
+      * Amplitude Privacy Policy: https://amplitude.com/privacy
+
+Google Play In-App Review does not provide the app with personal user data and is used solely to allow users to submit app reviews within Google Play.
+________________
+
+
+3. Data Sharing
+Collected analytics data may be shared with the above third-party service providers solely for analytics and app performance purposes. We do not sell or share user data for advertising or marketing purposes.
+________________
+
+
+4. Log Data
+In case of an app error, third-party services may collect log data such as device information and crash diagnostics to help identify and fix issues.
+________________
+
+
+5. Cookies and Tracking Technologies
+LifeBalance itself does not use cookies. However, third-party analytics services may use similar technologies as part of their SDKs.
+________________
+
+
+6. Security
+We take reasonable measures to protect the information processed by third-party services. Analytics data is handled according to the security practices of the respective providers.
+________________
+
+
+7. Links to Other Sites
+This app may contain links to external services operated by third parties. We are not responsible for the content or privacy practices of those websites.
+________________
+
+
+8. Children’s Privacy
+LifeBalance does not knowingly collect personally identifiable information from children under the age of 13. Any data collected through analytics services is non-personal and used solely for app improvement purposes.
+________________
+
+
+9. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated effective date.
+________________
+
+
+10. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+greenkeyuniverse@gmail.com
